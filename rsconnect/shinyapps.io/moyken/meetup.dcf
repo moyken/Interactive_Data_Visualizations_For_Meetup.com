@@ -1,0 +1,10 @@
+name: meetup
+title:
+username:
+account: moyken
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 267069
+bundleId: 1200391
+url: https://moyken.shinyapps.io/meetup/
+when: 1517373307.20481
